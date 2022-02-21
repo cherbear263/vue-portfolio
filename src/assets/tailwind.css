@@ -15,7 +15,7 @@ h1 {
 @tailwind utilities;
 
 .btn {
-  @apply bg-indigo-500 font-thin py-2 px-4 text-white;
+  @apply bg-indigo-500 font-thin py-3 px-5 tracking-wide text-white rounded-sm;
 }
 .btn:hover {
   @apply bg-indigo-700;
