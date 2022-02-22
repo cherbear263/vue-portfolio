@@ -54,7 +54,7 @@
       <h3 class="font-nunito uppercase text-lg text-indigo-500 tracking-wide mt-4">Technical Skills</h3>
       <ul class="">
         <li class="text-gray-100 mt-1">version control (git)</li>
-        <li class="text-gray-100 mt-1">analytica skills</li>
+        <li class="text-gray-100 mt-1">analytical skills</li>
         <li class="text-gray-100 mt-1">data flow and wireframing</li>
         <li class="text-gray-100 mt-1">testing and debugging</li>
         <li class="text-gray-100 mt-1">api integration</li>
@@ -87,6 +87,24 @@
 </section>
 <section id="work" class="section">
   <h1 class="text-5xl text-white mt-60 sm:mt-20">Work Samples</h1>
+</section>
+<section id="contact" class="section">
+  <h1 class="text-5xl text-white mt-60 sm:mt-20">Contact me</h1>
+  <form class="w-full max-w-xs mt-10" autocomplete="off">
+    <div class="mb-4">
+      <label class="block text-gray-300 text-sm font-bold mb-2" for="name">Name:</label>
+      <input class="appearance-none bg-gray-600 focus:bg-gray-500 focus:border-1 focus:border-gray-600 rounded w-full py-2 px-3 text-gray-300 leading-tight focus:outline-none " type="text" id="name">
+    </div>
+    <div class="mb-4">
+      <label class="block text-gray-300 text-sm font-bold mb-2" for="email">Email:</label>
+      <input class="appearance-none bg-gray-600 focus:bg-gray-500 focus:border-1 focus:border-gray-600 rounded w-full py-2 px-3 text-gray-300 leading-tight focus:outline-none " type="email" id="email">
+    </div>
+        <div class="mb-4">
+      <label class="block text-gray-300 text-sm font-bold mb-2" for="message">Message</label>
+      <textarea class="appearance-none bg-gray-600 focus:bg-gray-500 focus:border-1 focus:border-gray-600 rounded w-full py-2 px-3 text-gray-300 leading-tight focus:outline-none " type="textarea" id="message" rows="6"></textarea>
+    </div>
+    <button class="btn" type="submit">Submit</button>
+  </form>
 </section>
  
  </div>

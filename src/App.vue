@@ -5,8 +5,8 @@
     <router-link class="text-white" to="/">Cheryl Jones</router-link>
     <ul class="flex gap-4">
       <a href="/#about" class="text-white hover:text-blue-500">About</a>
-      <a href="/work" class="text-white hover:text-blue-500">Work</a>
-      <a href="#" class="text-white hover:text-blue-500">Contact</a>
+      <a href="/#work" class="text-white hover:text-blue-500">Work</a>
+      <a href="/#contact" class="text-white hover:text-blue-500">Contact</a>
     </ul>
   </div>
 </nav>
