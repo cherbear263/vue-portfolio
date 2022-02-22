@@ -5,18 +5,35 @@
     font-family: Nunito, sans-serif;
     font-weight: 300;
   }
-}
-h1 {
-  @apply font-fira font-medium;
+  h1 {
+    @apply font-fira font-medium;
+  }
 }
 
 @tailwind components;
 
 @tailwind utilities;
-
-.btn {
-  @apply bg-indigo-500 font-thin py-3 px-5 tracking-wide text-white rounded-sm;
-}
-.btn:hover {
-  @apply bg-indigo-700;
+@layer utilities {
+  html {
+    scroll-behaviour: smooth;
+  }
+  .section {
+    height: calc(100vh - 16px);
+    scroll-margin-top: 16px;
+    display: flex;
+    align-items: left;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .section:before {
+    padding-top: 1px;
+    display: block;
+    content: "";
+  }
+  .btn {
+    @apply bg-indigo-500 font-thin py-3 px-5 tracking-wide text-white rounded-sm;
+  }
+  .btn:hover {
+    @apply bg-indigo-700;
+  }
 }
