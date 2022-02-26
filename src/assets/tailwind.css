@@ -17,6 +17,7 @@
   html {
     scroll-behaviour: smooth;
   }
+
   .section {
     height: calc(100vh - 16px);
     scroll-margin-top: 16px;
@@ -30,6 +31,7 @@
     display: block;
     content: "";
   }
+
   .btn {
     @apply bg-indigo-500 font-thin py-3 px-5 tracking-wide text-white rounded-sm;
   }
