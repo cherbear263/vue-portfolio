@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Nuxt Shopping",
+    "description": "A very simple e-commerce site, created in Nuxt 3 with Pinia for state management and Tailwind for CSS",
+    "projectLink": "https://github.com/cherbear263/nuxt3-shopping",
+    "keywords": [
+      "Nuxt3",
+      "Vue",
+      "Javascript",
+      "Tailwind",
+      "Pinia"
+    ],
+    "imageData": {
+      "name": "Nuxt 3 Shopping App Photo",
+      "alt": "Image of a sample e-commece site, with the cart showing in a sidebar",
+      "url": "https://github.com/cherbear263/nuxt3-shopping/raw/main/assets/images/screenshot.png"
+    }
+  },
+  {
+    "title": "RentDee - for Landlords - in both Thai and English",
+    "description": "An app created for landlords in Thailand to report bad tenants. They can also search the database when evaluating tenant applications. I used the Vue-i18n plugin to translate the site from English to Thai",
+    "projectLink": "https://dee-rent.web.app/",
+    "keywords": [
+      "Vue",
+      "Firebase",
+      "Javascript",
+      "Tailwind",
+      "internationalization",
+      "vue-i18n"
+    ],
+    "imageData": {
+      "name": "RentDee",
+      "alt": "Image of RentDee Dashboard with a modal showing a green tick",
+      "url": "http://localhost:8080/img/rentDee-dashboard.e4d61ea8.png"
+    }
+  },
+  {
+    "title": "Crafing with Cazz",
+    "description": "A blog made in Wordpress for a dear friend who is a prolific crafting blogger and card-maker. This was customised to make posting a simple process. She wanted a lot of photos in her blog posts and links back to her existing store.",
+    "projectLink": "https: //craftingwithcazz.com/",
+    "keywords": [
+      "Wordpress",
+      "CMS",
+      "blog"
+    ],
+    "imageData": {
+      "name": "Crafting with Cazz",
+      "alt": "Image of a crafting website home page called Crafing with Cazz",
+      "url": "http://localhost:8080/img/cazz.78634ee1.png"
+    }
+  },
+  {
+    "title": "Flask CoffeeShop",
+    "description": "A coffee-ordering app, custom-designed in flask, for teachers to order a coffee with delivery from the Year 10 hospitality class. Authentication, ordering, keeping track of payments, order history, custom printed order labels, and more...",
+    "projectLink": "http://cheryl.pythonanywhere.com",
+    "keywords": [
+      "python",
+      "Flask",
+      "chart.js"
+    ],
+    "imageData": {
+      "name": "Year 10 Coffeeshop app",
+      "alt": "Image of the dashboard for the coffee-ordering application. Includes statistics in a colourful pie chart",
+      "url": "http://localhost:8080/img/SLAS_dashboard.2216a35d.png"
+    }
+  }
+]
