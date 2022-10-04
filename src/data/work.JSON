@@ -31,7 +31,7 @@
     "imageData": {
       "name": "RentDee",
       "alt": "Image of RentDee Dashboard with a modal showing a green tick",
-      "url": "http://localhost:8080/img/rentDee-dashboard.e4d61ea8.png"
+      "url": "https://github.com/cherbear263/vue-portfolio/blob/main/src/assets/rentDee-dashboard.png?raw=true"
     }
   },
   {
@@ -46,7 +46,7 @@
     "imageData": {
       "name": "Crafting with Cazz",
       "alt": "Image of a crafting website home page called Crafing with Cazz",
-      "url": "http://localhost:8080/img/cazz.78634ee1.png"
+      "url": "https://github.com/cherbear263/vue-portfolio/blob/main/src/assets/cazz.png?raw=true"
     }
   },
   {
@@ -61,7 +61,7 @@
     "imageData": {
       "name": "Year 10 Coffeeshop app",
       "alt": "Image of the dashboard for the coffee-ordering application. Includes statistics in a colourful pie chart",
-      "url": "http://localhost:8080/img/SLAS_dashboard.2216a35d.png"
+      "url": "https://github.com/cherbear263/vue-portfolio/blob/main/src/assets/SLAS_dashboard.png?raw=true"
     }
   }
 ]

@@ -2,7 +2,7 @@
   <div class="py-16">
     <nav class="fixed inset-x-0 top-0 z-10 h-16 bg-gray-900 ">
       <div class="flex items-center justify-between max-w-screen-xl py-5 mx-9 xl:mx-auto">
-        <a class="text-white" href="/#intro">Cheryl Jones</a>
+        <a class="font-semibold text-white uppercase" href="/#intro">Cheryl Jones</a>
         <ul class="flex gap-4">
           <a href="/#about" class="text-white hover:text-blue-500">About</a>
           <a href="/#work" class="text-white hover:text-blue-500">Work</a>
